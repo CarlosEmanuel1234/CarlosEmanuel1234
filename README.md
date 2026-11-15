@@ -21,7 +21,7 @@ Tenho interesse em programação, desenvolvimento de software e ciência de dado
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="28" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="28" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="28" alt="JavaScript" />
-  <img src="https://hermes.dio.me/articles/cover/59ddb9b0-2740-4178-a124-ac8fcdaf8ea7.jpg" width="28" alt="SQL" />
+  <img src="https://images.openai.com/static-rsc-4/KtVVRAWWaOPK_PciDmfBG9mpPeStkbX33eOw9C83h0-XzARS1VhdwYS3iyR-VuNsDTtJ5xELRZlY90MaHF5nPx9LpRMCGQNkRF7X-KxzKU2gC9zb4zPCjOcpIaiN0MrboT0Np0oXyRZyhT6XFRLsqZv2pkU-cB-SsSgFRLHCcqBs8syw0aw4Df43ZQybS9zE?purpose=fullsize" width="28" alt="SQL" />
 </p>
 
 - Python
